@@ -17,29 +17,6 @@ Início – Apresentação institucional
 
 Sobre – Missão e visão da empresa
 
-Contactos – Telefones, email e botão de WhatsApp direto
-
-
-📁 Como usar
-
-1. Clone ou baixe este repositório
-
-
-2. Abra o arquivo index.html no seu navegador
-
-
-3. Para publicar online, envie os arquivos para:
-
-GitHub Pages
-
-Netlify
-
-Vercel
-
-cPanel ou servidor próprio
-
-
-
 
 📞 Contactos Oficiais
 
